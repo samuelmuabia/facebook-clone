@@ -18,22 +18,23 @@ main{
     height: 106px;
     margin : -28px;
     position: relative;
-    top: 20%;
+    top: 27%;
 }
 .logo p{
     font-size: 28px;
     font-weight: 400;
     position: relative;
-    top: 20%;
+    top: 27%;
+    margin-top: 14px;
 }
 .box{
     width: 396px;
-    margin: 60px 0 0;
+    margin: 58px 0 0;
     background-color: #fff;
     padding: 20px 0px 0 ;
     display: inline-block;
     border-radius: 10px;
-    box-shadow: 0 0 10px #ccc;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
     text-align: center;
 }
 form{
