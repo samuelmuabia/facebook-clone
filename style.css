@@ -3,8 +3,10 @@ body{
     font-family: Helvetica, sans-serif ,Arial;
     background-color: #f0f2f5;
 }
+main{
+    height: 638px;
+}
 .top-part{
-    height: 650px;
     margin: 80px 270px;
     display: flex;
 }
@@ -83,8 +85,9 @@ button{
 }
 input:focus{
     outline: none !important;
-        border-color: #166fe5;
-        box-shadow: 0 0 2px #719ECE;
+    border-color: #166fe5;
+    box-shadow: 0 0 2px #719ECE;
+    
 }
 .hr {
     border-top: 2px solid #dadde1af;
