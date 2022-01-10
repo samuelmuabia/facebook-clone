@@ -115,13 +115,15 @@ input:focus{
 footer{
     height: 150px;
     padding-top: 20px;
+    width: 100%;
     background-color: #ffffff;
     color: #8a8d91;
     font-size: 12px;
+
 }
 .bottom{
-    width: 920px;
-    margin: 0 270px;
+    width: 64%;
+    margin: 0 18%;
 }
 .bottom a{
     text-decoration: none;
@@ -129,10 +131,7 @@ footer{
     margin: 0 4px;
 }
 .bottom hr{
-    width: 920px;
-}
-.bottom a img{
-    size: 170px 80px;
+    width: 100%;
 }
 .bottom a:hover{
     text-decoration: underline;
